@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>JSON</title>
+  <style>
+    body { font-family: Arial, sans-serif; margin: 20px; }
+    a { display: block; margin: 10px 0; color: blue; text-decoration: underline; cursor: pointer; }
+    pre { background: #f4f4f4; padding: 10px; border: 1px solid #ddd; }
+  </style>
+</head>
+<body>
+  <h1>JSONPlaceholder Mini</h1>
+  <p>Selecciona alguna opcion para ver la informacion:</p>
+  <a href="#" onclick="mostrarDatos('users')">Users</a>
+  <a href="#" onclick="mostrarDatos('posts')">Posts</a>
+  <a href="#" onclick="mostrarDatos('comments')">Comments</a>
+  <a href="#" onclick="mostrarDatos('albums')">Albums</a>
+  <a href="#" onclick="mostrarDatos('photos')">Photos</a>
+
+  <pre id="output"></pre>
+  <script src="evaluacion.js"></script>
+</body>
+</html>
+

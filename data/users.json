@@ -1,0 +1,14 @@
+[
+  { "id": 1, "name": "Johny Barca", "email": "johny.barca@gmail.com", "phone": "300 1234567", "website": "johnybarca.co", "address": "Carrera 45 #103-20, Bogotá" },
+  { "id": 2, "name": "Francine Smith", "email": "francine.smith@gmail.com", "phone": " 310 2345678", "website": "francinesmith.co", "address": "Calle 12 #5-10, Medellín" },
+  { "id": 3, "name": "Alisia Maravilla", "email": "alisia.maravilla@gmail.com", "phone": "315 3456789", "website": "alisia.co", "address": "Avenida 19 #34-56, Cali" },
+  { "id": 4, "name": "Juanca Bermúdez", "email": "juanca.bermudez@gmail.com", "phone": "320 4567890", "website": "juancabermudez.co", "address": "Diagonal 25 #67-89, Cartagena" },
+  { "id": 5, "name": "Charlie Charlie", "email": "charlie.charlie@gmail.com", "phone": "300 5678901", "website": "charlie.co", "address": "Transversal 10 #12-34, Barranquilla" },
+  { "id": 6, "name": "Diana Wolf", "email": "diana.wolf@gmail.com", "phone": "310 6789012", "website": "dianawolf.co", "address": "Carrera 15 #20-45, Bucaramanga" },
+  { "id": 7, "name": "Eve Lithz", "email": "eve.lithz@gmail.com", "phone": "315 7890123", "website": "evelithz.co", "address": "Calle 85 #8-70, Pereira" },
+  { "id": 8, "name": "Frank Wolfenstein", "email": "frank.wolf@gmail.com", "phone": "300 8901234", "website": "frankwolf.co", "address": "Carrera 7 #12-34, Manizales" },
+  { "id": 9, "name": "Kevin Polo", "email": "kevin.polo@gmail.com", "phone": "310 9012345", "website": "kevinpolo.co", "address": "Avenida 6 #23-45, Santa Marta" },
+  { "id": 10, "name": "Grille Lozada", "email": "grille.lozada@gmail.com", "phone": "320 0123456", "website": "grillelozada.co", "address": "Calle 50 #7-89, Villavicencio" }
+]
+
+  
