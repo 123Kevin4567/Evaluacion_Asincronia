@@ -92,7 +92,7 @@ const cargar = async () => {
 
             // asociamos los comentarios a las id de los post
 
-            const comentarios = await solicitud(`comments?postId=${user.id}`);
+            const comentarios = await solicitud(`comments?postId=${post.id}`);;
 
             // retornamos post con los comentarios asociados a los (pos.id)
 
